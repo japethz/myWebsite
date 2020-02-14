@@ -1,0 +1,41 @@
+.page{
+    margin-top: 50px;
+    border-style: solid;
+    border-color:initial;
+    padding: 20px;
+    box-shadow: 5px 10px 18px red;
+    background-color: cornsilk;
+}
+#home{
+    margin-right: 50px;
+    margin-left: 70px;
+    font-size: 25px;
+}
+#home1{
+    margin-right: 0px;
+    font-size: 25px;
+    padding: 0px;
+
+    
+}
+#h1{
+    margin-left: 20px;
+    font-size: 140px;
+    
+}
+.img{
+    background:url(web-designHome.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 900px;
+    background-attachment: fixed;
+    background-position: 80% 100%;
+    margin-right: 100px;
+    
+}
+.img1{
+    margin-right: 0px;
+    font-size: 25px;
+    padding: 0px;
+    
+}
